@@ -1,6 +1,6 @@
 ### Boas vindas ao meu perfil 💙
 
-Meu nome é Marcelo Paludetto
+Meu nome é Victor hugo
 
 - Estou estudando na [Alura](https://www.alura.com.br)
 - Fazendo um curso de Programação
